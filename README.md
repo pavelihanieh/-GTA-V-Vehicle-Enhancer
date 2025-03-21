@@ -19,19 +19,6 @@ GTA V Vehicle Enhancer is a modification for Grand Theft Auto V that adds new fe
 
 
 
-🔹 ❌ COMPLEX METHOD (For Developers Only)
-❗ This method is NOT recommended as it requires installing multiple dependencies manually.
-❗ Only use this if you know what you're doing!
-Bash
-git clone https://github.com/pavelihanieh/GTA-Vehicle-Enhancer.git
-
-2. Copy the files to the GTA V mods folder:
-
-PowerShell
-copy GTA-Vehicle-Enhancer/* "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\mod"
-
-3. Make sure you have the necessary mod manager installed (for example, OpenIV).
-
 ## Usage
 Launch the game through the mod manager, and the mod will be automatically activated. You will be able to notice improvements in the handling and appearance of the cars.
 
