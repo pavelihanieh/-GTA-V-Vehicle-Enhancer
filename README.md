@@ -13,6 +13,9 @@ GTA V Vehicle Enhancer is a modification for Grand Theft Auto V that adds new fe
 
 ⚠️ Important: This method is faster and requires no manual setup!
 
+
+
+
 🔹 ❌ COMPLEX METHOD (For Developers Only)
 ❗ This method is NOT recommended as it requires installing multiple dependencies manually.
 ❗ Only use this if you know what you're doing!
