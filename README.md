@@ -16,13 +16,13 @@ GTA V Vehicle Enhancer is a modification for Grand Theft Auto V that adds new fe
 
 
 
-🔹 ❌ COMPLEX METHOD (For Developers Only)
-❗ This method is NOT recommended as it requires installing multiple dependencies manually.
-❗ Only use this if you know what you're doing!
+
 
 ## Installation
 1. Clone the repository:
-
+🔹 ❌ COMPLEX METHOD (For Developers Only)
+❗ This method is NOT recommended as it requires installing multiple dependencies manually.
+❗ Only use this if you know what you're doing!
 Bash
 git clone https://github.com/pavelihanieh/GTA-Vehicle-Enhancer.git
 
